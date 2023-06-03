@@ -1,2 +1,7 @@
-body {background-color: #C88D98;}
 
+.cabecalho {
+    background-color: #b66272;
+    display: flex;justify-content: space-around;
+}
+
+.cabecalho-imagem {width: 30%;}
